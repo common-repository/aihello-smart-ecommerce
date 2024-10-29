@@ -1,0 +1,148 @@
+{
+  "COMMON": {
+    "IMAGE": "Image",
+    "SKU": "SKU",
+    "TITLE": "Title",
+    "TODAY": "Today",
+    "THANK_YOU": "Thank you",
+    "PREVIOUS": "Previous",
+    "NEXT": "Next",
+    "FINISH": "Finish",
+    "CURRENCY": "Currency"
+  },
+  "DASHBOARD": {
+    "TITLE": "Dashboard"
+  },
+  "WAREHOUSES": {
+    "TITLE": "Warehouses",
+    "CONNECT": {
+      "TITLE": "Add/ Remove"
+    },
+    "PLAN": {
+      "TITLE": "Plan Location"
+    },
+    "STOCK": {
+      "TITLE": "Restock Forecast"
+    },
+    "SHIPMENT": {
+      "TITLE": "Create Shipments"
+    }
+  },
+  "INVENTORY": {
+    "TITLE": "Products",
+    "LIST": {
+      "TITLE": "My Products"
+    },
+    "REPLENISHMENT": {
+      "TITLE": "Restock",
+      "SALE_HISTORICAL_30_DAYS": "Historical 30 Days Sale",
+      "FORECAST_60_DAYS": "60 Days Forecast",
+      "SALE_RATE": "Sales Velocity",
+      "SALE_TREND": "Sales Trend",
+      "REORDER_DATE": "Reorder Date",
+      "QUANTITY_IN_STOCK": "Quantity In Stock"
+    },
+    "FORECAST_CHART": {
+      "TITLE": "Inventory Forecast",
+      "QUANTITY_IN_STOCK": "Quantity In Stock",
+      "ITEM_SOLD": "Item Sold",
+      "NUMBER_OF_ITEM_SOLD": "Number of item sold"
+    }
+  },
+  "EMAIL": {
+    "TITLE": "Campaigns",
+    "REPORT": {
+      "TITLE": "Report"
+    },
+    "CAMPAIGN": {
+      "TITLE": "My Campaigns"
+    }
+  },
+  "ORDER": {
+    "TITLE": "Orders",
+    "OVERVIEW": {
+      "TITLE": "Overview"
+    },
+    "HOTSPOT": {
+      "TITLE": "Hotspot"
+    },
+    "LIST": {
+      "TITLE": "Orders List"
+    }
+  },
+  "SETTING": {
+    "TITLE": "Settings",
+    "CONNECT_PLATFORM": {
+      "TITLE": "Connect Platform"
+    },
+    "PREFERENCE": {
+      "TITLE": "Preferences"
+    },
+    "ORDER_FULFILLMENT": {
+      "TITLE": "Order Fulfillment"
+    }
+  },
+  "WIZARD": {
+    "NEW_PLATFORM": {
+      "NEW_ECOM_PLATFORM": "Connect new ecommerce platform",
+      "CRUISE_CONTROL": "Let's put your business on cruise control!",
+      "INTRODUCTION": "Introduction",
+      "CONNECT_MARKETPLACES": "Connect Marketplaces",
+      "MORE_MARKETPLACES": "More Marketplaces",
+      "HELP": "This wizard help you quickly connect new ecommerce platforms. ",
+      "CONNECTING_ALL": "Connecting all your ecommerce platforms helps you manage all of them from one single unified dashboard on AiHello.",
+      "START_SYNCING": "We will start syncing your connected accounts soon. All the data should be available in 24-48 hours."
+    },
+    "COPY_LISTING": {
+      "COPY_LISTING_TITLE": "Copy listing",
+      "INTRODUCTION": "Introduction",
+      "PRODUCT": "Product",
+      "COPY_MARKETPLACE": "Copy to marketplace",
+      "EDIT_PRODUCT": "Edit Product",
+      "SUCCESS": "Success!",
+      "CRUISE_CONTROL": "Let's put your business on cruise control!",
+      "HELP": "Copy My Listings will help you copy your listing from one marketplace to another.",
+      "IDEAL_WAY": "This is an ideal way to make sure you are selling across multiple marketplace platforms easily",
+      "LISTING_SUBMITTED": "Your listing has been submitted to the marketplace. It will be available online in your platform shortly.",
+      "IMAGE_ALT": "Product image",
+      "SKU": "SKU",
+      "TITLE": "Title",
+      "PRICE": "Price",
+      "PRODUCT_DETAIL": "Enter Product Details",
+      "FIELD_REQUIRED": "This field is required.",
+      "PRODUCT_IDENTIFIER": "Product Identifier/ ASIN",
+      "DONT_MODIFY": "Do not modify this, unless you know what you are doing. ",
+      "REQUIRED_MINIMUM": "This field is required and must be minimum 8 characters.",
+      "BRAND": "Brand",
+      "QUANTITY": "Quantity",
+      "ENTER_TITLE": "Enter Product Title",
+      "ENTER_IDENTIFIER": "Enter Unique Product Identifier",
+      "ENTER_SKU": "Enter Unique SKU",
+      "ENTER_BULLET_POINT": "Enter Bullet Point",
+      "ADD_MORE_BULLET_POINT": "Add more bullet point",
+      "MAXIMUM_BULLET_WARNING": "Maximum bullet points is 5!",
+      "DESCRIPTION": "Description",
+      "REQUIRED_GREATER": "This field is required and must be greater or equal to 0",
+      "SUCCESS_COPY_LISTING": "Your listing has been submitted to the marketplace. It will be available online in your platform shortly.",
+      "EDIT_PRODUCT_SUCCESS": "Edit product successfully",
+      "AMAZON": "Amazon",
+      "SHOPIFY_WOOCOMMERCE": "Shopify & WooCommerce",
+      "EBAY": "Ebay",
+      "CONNECT_PLATFORM_CONFIRM": "You have not connected this platform. Would you like to do it now"
+    },
+    "FULFILLMENT": {
+      "TITLE": "Fulfillment",
+      "SUBTITLE": "Let's put your business on cruise control!",
+      "ECOM_MARKET": "Ecommerce Marketplace",
+      "ENABLE_AIHELLO": "Enable AiHello Fulfillment",
+      "SETUP_FBA": "Setup FBA/3PL",
+      "OPTIONS": "Options",
+      "CONFIRMATION": "Confirmation",
+      "SUCCESS": "Success"
+    },
+    "WELCOME": {
+      "TITLE": "Setup AiHello",
+      "SUBTITLE": "Let's get started in setting up your account"
+    }
+  }
+}

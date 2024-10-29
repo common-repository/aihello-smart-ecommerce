@@ -1,0 +1,14 @@
+[
+  {
+    "planType": "Basic"
+  },
+  {
+    "planType": "Startup"
+  },
+  {
+    "planType": "Professional"
+  },
+  {
+    "planType": "Corporate"
+  }
+]

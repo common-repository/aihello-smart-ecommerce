@@ -1,0 +1,26 @@
+  [{
+      "name": "bigcom",
+      "image": "./assets/img/waitlist/bigcom.png",
+      "joined": false
+    },
+    {
+      "name": "jet",
+      "image": "./assets/img/waitlist/jet.png",
+      "joined": false
+    },
+    {
+      "name": "flipkart",
+      "image": "./assets/img/waitlist/flipkart.png",
+      "joined": false
+    },
+    {
+      "name": "magento",
+      "image": "./assets/img/waitlist/magento.png",
+      "joined": false
+    },
+    {
+      "name": "walmart",
+      "image": "./assets/img/waitlist/walmart.png",
+      "joined": false
+    }
+  ]

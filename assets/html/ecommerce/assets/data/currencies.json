@@ -1,0 +1,38 @@
+[
+  {
+    "code": "USD",
+    "symbol": "$"
+  },
+  {
+    "code": "EUR",
+    "symbol": "€"
+  },
+  {
+    "code": "GBP",
+    "symbol": "£"
+  },
+  {
+    "code": "MXN",
+    "symbol": "$"
+  },
+  {
+    "code": "CAD",
+    "symbol": "$"
+  },
+  {
+    "code": "INR",
+    "symbol": "₹"
+  },
+  {
+    "code": "CNY",
+    "symbol": "¥"
+  },
+  {
+    "code": "JPY",
+    "symbol": "¥"
+  },
+  {
+    "code": "AUD",
+    "symbol": "$"
+  }
+]

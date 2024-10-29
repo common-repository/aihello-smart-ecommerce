@@ -1,0 +1,48 @@
+@import '~bootstrap/scss/mixins/gradients';
+@import '../../core/palette';
+
+:host /deep/ .custom-css {
+
+  aw-wizard-navigation-bar.horizontal,
+  .large-empty-symbols {
+    ul.steps-indicator {
+      li {
+        .label {
+          text-transform: none;
+          color: color-function('yellow', 'darken-2');
+          font-weight: normal;
+        }
+
+        .step-indicator {
+          font-family: 'FontAwesome';
+        }
+
+        &.current,
+        &.editing {
+          .step-indicator {
+            color: color-function('white', 'base');
+            border-color: color-function('yellow', 'darken-2');
+            background-color: color-function('yellow', 'darken-2');
+          }
+        }
+
+        &.done {
+          .step-indicator {
+            color: color-function('yellow', 'darken-2');
+            border-color: color-function('yellow', 'darken-2');
+            background-color: color-function('white', 'base');
+          }
+
+          a {
+            &:hover {
+              .step-indicator {
+                border-color: color-function('primary', 'base');
+                color: color-function('primary', 'base');
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

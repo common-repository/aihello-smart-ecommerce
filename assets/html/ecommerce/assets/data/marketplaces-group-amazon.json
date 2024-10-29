@@ -1,0 +1,306 @@
+[{
+    "label": "Amazon North America",
+    "platform": "amazon",
+    "region": "northAmerica",
+    "marketCode": "northAmerica",
+    "image": "./assets/img/marketplaces/amazon-northamerica.png",
+    "currency": "AUD",
+    "symbol": "$"
+  },
+  {
+    "label": "Amazon Europe",
+    "platform": "amazon",
+    "region": "europe",
+    "marketCode": "europe",
+    "image": "./assets/img/marketplaces/amazon-europe.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Amazon India",
+    "marketCode": "A21TJRUUN4KGV",
+    "platform": "amazon",
+    "image": "./assets/img/marketplaces/amazon-india.png",
+    "flag": "./assets/img/marketplaces/flags/india.png",
+    "currency": "INR",
+    "symbol": "₹"
+  },
+  {
+    "label": "Amazon China",
+    "marketCode": "AAHKV2X7AFYLW",
+    "platform": "amazon",
+    "image": "./assets/img/marketplaces/amazon-china.png",
+    "flag": "./assets/img/marketplaces/flags/china.png",
+    "currency": "CNY",
+    "symbol": "¥"
+  },
+  {
+    "label": "Amazon Japan",
+    "marketCode": "A1VC38T7YXB528",
+    "platform": "amazon",
+    "image": "./assets/img/marketplaces/amazon-japan.png",
+    "flag": "./assets/img/marketplaces/flags/japan.png",
+    "currency": "JPY",
+    "symbol": "¥"
+  },
+  {
+    "label": "Amazon Australia",
+    "marketCode": "A39IBJ37TRP1C6",
+    "platform": "amazon",
+    "image": "./assets/img/marketplaces/amazon-australia.png",
+    "flag": "./assets/img/marketplaces/flags/australia.png",
+    "currency": "AUD",
+    "symbol": "CAD$"
+  },
+  {
+    "label": "WooCommerce",
+    "marketCode": "woocommerce",
+    "marketEnum": "woocommerce",
+    "platform": "woocommerce",
+    "image": "./assets/img/marketplaces/woocommerce.png",
+    "flag": "./assets/img/marketplaces/flags/woocommerce.png",
+    "currency": "USD",
+    "symbol": "$"
+  },
+  {
+    "label": "Shopify",
+    "marketCode": "shopify",
+    "marketEnum": "shopify",
+    "platform": "shopify",
+    "image": "./assets/img/marketplaces/shopify.png",
+    "flag": "./assets/img/marketplaces/flags/shopify.png",
+    "currency": "USD",
+    "symbol": "$"
+  },
+  {
+    "label": "Ebay US",
+    "marketCode": "ebayUS",
+    "marketEnum": "ebayUS",
+    "siteId": 0,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-usa.png",
+    "flag": "./assets/img/marketplaces/flags/us.png",
+    "currency": "USD",
+    "symbol": "$"
+  },
+  {
+    "label": "Ebay Canada",
+    "marketCode": "ebayCanada",
+    "marketEnum": "ebayCanada",
+    "platform": "ebay",
+    "siteId": 2,
+    "image": "./assets/img/marketplaces/ebay-canada.png",
+    "flag": "./assets/img/marketplaces/flags/canada.png",
+    "currency": "CAD",
+    "symbol": "CAD$"
+  },
+  {
+    "label": "Ebay Australia",
+    "marketCode": "ebayAustralia",
+    "marketEnum": "ebayAustralia",
+    "siteId": 15,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-australia.png",
+    "flag": "./assets/img/marketplaces/flags/australia.png",
+    "currency": "AUD",
+    "symbol": "AUD$"
+  },
+  {
+    "label": "Ebay Austria",
+    "marketCode": "ebayAustria",
+    "marketEnum": "ebayAustria",
+    "siteId": 16,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-austria.png",
+    "flag": "./assets/img/marketplaces/flags/austria.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Belgium French",
+    "marketCode": "ebayBelgiumFrench",
+    "marketEnum": "ebayBelgiumFrench",
+    "siteId": 23,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-belgium.png",
+    "flag": "./assets/img/marketplaces/flags/french.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay France",
+    "marketCode": "ebayFrance",
+    "marketEnum": "ebayFrance",
+    "siteId": 71,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-france.png",
+    "flag": "./assets/img/marketplaces/flags/france.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Germany",
+    "marketCode": "ebayGermany",
+    "marketEnum": "ebayGermany",
+    "siteId": 77,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-germany.png",
+    "flag": "./assets/img/marketplaces/flags/germany.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Motors",
+    "marketCode": "ebayMotors",
+    "marketEnum": "ebayMotors",
+    "siteId": 100,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-motors.png",
+    "flag": "./assets/img/marketplaces/flags/motors.png",
+    "currency": "USD",
+    "symbol": "$"
+  },
+  {
+    "label": "Ebay Italy",
+    "marketCode": "ebayItaly",
+    "marketEnum": " ebayItaly",
+    "siteId": 101,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-italy.png",
+    "flag": "./assets/img/marketplaces/flags/italy.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Belgium Dutch",
+    "marketCode": "ebayBelgiumDutch",
+    "marketEnum": "ebayBelgiumDutch",
+    "siteId": 123,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-dutch.png",
+    "flag": "./assets/img/marketplaces/flags/dutch.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Netherlands",
+    "marketCode": "ebayNetherlands",
+    "marketEnum": "ebayNetherlands",
+    "siteId": 146,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-netherlands.png",
+    "flag": "./assets/img/marketplaces/flags/netherlands.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Spain",
+    "marketCode": "ebaySpain",
+    "marketEnum": "eEbaySpain",
+    "siteId": 186,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-spain.png",
+    "flag": "./assets/img/marketplaces/flags/spain.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Switzerland",
+    "marketCode": "ebaySwitzerland",
+    "marketEnum": "ebaySwitzerland",
+    "siteId": 193,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-switzerland.png",
+    "flag": "./assets/img/marketplaces/flags/switzerland.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay HongKong",
+    "marketCode": "ebayHongKong",
+    "marketEnum": "ebayHongKong",
+    "siteId": 201,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-hongkong.png",
+    "flag": "./assets/img/marketplaces/flags/hongkong.png",
+    "currency": "CNY",
+    "symbol": "¥"
+  },
+  {
+    "label": "Ebay India",
+    "marketCode": "ebayIndia",
+    "marketEnum": "ebayIndia",
+    "siteId": 203,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-india.png",
+    "flag": "./assets/img/marketplaces/flags/india.png",
+    "currency": "INR",
+    "symbol": "₹"
+  },
+  {
+    "label": "Ebay Ireland",
+    "marketCode": "ebayIreland",
+    "marketEnum": "ebayIreland",
+    "siteId": 205,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-ireland.png",
+    "flag": "./assets/img/marketplaces/flags/ireland.png",
+    "currency": "EUR",
+    "symbol": "€"
+  },
+  {
+    "label": "Ebay Malaysia",
+    "marketCode": "ebayMalaysia",
+    "marketEnum": "ebayMalaysia",
+    "siteId": 207,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-malaysia.png",
+    "flag": "./assets/img/marketplaces/flags/malaysia.png",
+    "currency": "MYR",
+    "symbol": "RM"
+  },
+  {
+    "label": "Ebay Canada French",
+    "marketCode": "ebayCanadaFrench",
+    "marketEnum": "ebayCanadaFrench",
+    "siteId": 210,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-canada.png",
+    "flag": "./assets/img/marketplaces/flags/canada.png",
+    "currency": "CAD",
+    "symbol": "CAD$"
+  },
+  {
+    "label": "Ebay Philippines",
+    "marketCode": "ebayPhilippines",
+    "marketEnum": "ebayPhilippines",
+    "siteId": 211,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-philippines.png",
+    "flag": "./assets/img/marketplaces/flags/philippines.png",
+    "currency": "PHP",
+    "symbol": "₱"
+  },
+  {
+    "label": "Ebay Poland",
+    "marketCode": "ebayPoland",
+    "marketEnum": "ebayPoland",
+    "siteId": 212,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-poland.png",
+    "flag": "./assets/img/marketplaces/flags/poland.png",
+    "currency": "PLN",
+    "symbol": "zł"
+  },
+  {
+    "label": "Ebay Singapore",
+    "marketCode": "ebaySingapore",
+    "marketEnum": "ebaySingapore",
+    "siteId": 216,
+    "platform": "ebay",
+    "image": "./assets/img/marketplaces/ebay-singapore.png",
+    "flag": "./assets/img/marketplaces/flags/singapore.png",
+    "currency": "SGD",
+    "symbol": "SGD$"
+  }
+]

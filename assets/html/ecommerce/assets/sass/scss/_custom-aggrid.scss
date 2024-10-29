@@ -1,0 +1,31 @@
+.ag-theme-balham,
+.ag-header {
+  font-family: 'Rubik' !important;
+  font-size: 13px !important;
+}
+
+.ag-theme-balham {
+  .ag-paging-panel {
+    word-wrap: normal;
+
+    .ag-paging-page-summary-panel {
+      line-height: normal;
+    }
+  }
+
+  .ag-stub-cell {
+    .ag-loading-text {
+      // force loading text temporary
+      margin-top: -3px !important;
+    }
+  }
+}
+
+.ag-row-hover {
+  /* putting in !important so it overrides the theme's styling as it hovers the row also */
+  background-color: #dfdfff !important;
+}
+
+.ag-column-hover {
+  background-color: #dfffdf;
+}

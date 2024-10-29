@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/mixins/gradients';
+@import './core/palette';
+
+.panel {
+  border: 1px solid color-function('grey', 'base');
+  .panel-heading {
+    padding: 10px;
+    border-bottom: 1px solid color-function('grey', 'base');
+    background: color-function('primary', 'base');
+    color: #ffffff;
+    display: flex;
+  }
+}

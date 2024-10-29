@@ -1,0 +1,47 @@
+.wizard-container {
+  .wizard-card {
+    min-height: 410px;
+
+    .tab-wizard-content {
+      min-height: 200px;
+      padding: 0px 20px 10px;
+    }
+
+    .wizard-footer {
+      padding: 10px 15px 5px;
+    }
+
+    .wizard-header {
+      padding: 15px 15px 15px 15px;
+      .category {
+        color: color-function('grey', 'base');
+      }
+    }
+
+    .no-info-text {
+      text-align: center;
+      flex: auto;
+    }
+  }
+
+  .btn-next.btn-fill {
+    color: color-function('white', 'base');
+    background-color: color-function('yellow', 'darken-2');
+    opacity: 1;
+  }
+
+  .btn-next {
+    border-color: color-function('yellow', 'darken-2');
+  }
+
+  .btn-fill:hover {
+    background-color: color-function('yellow', 'darken-3');
+    color: color-function('white', 'base');
+    border-color: color-function('yellow', 'darken-3');
+  }
+
+  .btn-previous {
+    background: color-function('grey', 'accent-4');
+    color: color-function('white', 'base');
+  }
+}
